@@ -1,0 +1,28 @@
+body
+    .aa{
+        height:100px; color:cornflowerblue; background-color: orange; padding-top:30px;font-family: curlz mt;font-size: 50px          ;
+    }
+    .bb{
+        font-family: chiller; font-size: 40px;;color:gold;
+    }
+    .cc{
+        height:2000px; padding:30px; background-attachment: fixed; background-image: url(back.jpg)
+    }
+    .dd{
+        height:100px; color: white; background-color:orange
+    }
+    .ee{
+        border:2px solid black; width:1300px
+    }
+    .ff{
+        display: flex;
+    }
+    .gg{
+        border: 2px solid black; margin-right:20px; width:400px; height:400px; font-size:16px; text-align: center; color: greenyellow; background-color: black
+    }
+    .hh{
+        font-size:14px; height:fit-content; width:120px
+    }
+    .ii{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; width: 200px;font-size: 30px;
+    }
